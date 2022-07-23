@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Damian and I'm a candidate FrontEnd Developer, from Poland.</p>
+<p align="left">My name is Damian and I'm a candidate FrontEnd Developer, from Poland.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/damian-j-710210212/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
