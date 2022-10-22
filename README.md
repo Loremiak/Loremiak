@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Damian and I'm a candidate FrontEnd Developer, from Poland.</p>
+<p align="left">My name is Damian and I'm intern FrontEnd Developer, from Poland.</p>
 
 ###
 
