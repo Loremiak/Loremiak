@@ -57,5 +57,3 @@
 
 ###
 
-![image](https://user-images.githubusercontent.com/99645860/197235282-24a9f506-7b3a-41f1-95a8-0ea6d46f82e5.png)
-
