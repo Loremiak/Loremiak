@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since November 2021<br>📚 I'm currently focusing on SCSS, TypeScript and React<br>🎯 Future goals: FullStack Developer<br>👀 Fun fact: Yes, this it is NFT </p>
+<p align="left">✨ Creating bugs since November 2021<br>📚 I'm currently focusing on TypeScript, React and Next<br>🎯 Future goals: FullStack Developer<br>👀 Fun fact: Yes, this it is NFT </p>
 
 ###
 
